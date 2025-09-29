@@ -36,6 +36,8 @@ were prepared to provide descriptive attributes, while a central fact table was 
 store key performance metrics. This star-schema model allowed efficient data organization, 
 better relationships, and faster dashboard performance. 
 
+![image alt](https://github.com/Aashriya11/Digital-Marketing-Campaign-Analysis/blob/9d3b350976f624c14896a9cdf578c9d9bdc96625/Data%20Modelling.png)
+
 ---
 
 ## 3. Data Analysis
