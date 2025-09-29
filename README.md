@@ -17,6 +17,8 @@ Provides geographical insights into campaign performance, enabling targeted impr
 
 These dashboards transform raw campaign data into clear visual insights, empowering stakeholders to optimize marketing investments and maximize ROI.
 
+![image alt]()
+
 ---
 
 ## 2. Data Pre-processing Process 
