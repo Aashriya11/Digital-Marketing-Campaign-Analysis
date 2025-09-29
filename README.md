@@ -17,7 +17,7 @@ Provides geographical insights into campaign performance, enabling targeted impr
 
 These dashboards transform raw campaign data into clear visual insights, empowering stakeholders to optimize marketing investments and maximize ROI.
 
-![image alt]()
+![image alt](https://github.com/Aashriya11/Digital-Marketing-Campaign-Analysis/blob/b6892cf8cc35e40e7c9a8dc0df5730468647488b/Dashboard.png)
 
 ---
 
